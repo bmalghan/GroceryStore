@@ -28,7 +28,7 @@ function openInfo(evt, tabName) {
 // it makes each product name as the label for the checkbos
 
 function populateListProductChoices(slct2) {
-   	var s1 = document.getElementsByName("restrictions");console.log(s1)
+   	var s1 = document.getElementsByName("restrictions");
     var s2 = document.getElementById(slct2);
 
    	//get restrictions from s1
